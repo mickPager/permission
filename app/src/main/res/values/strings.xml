@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">permissions</string>
+
+    <string name="permission_storage_reject">app希望读取您手机内存用来保存图片!</string>
+    <string name="permission_storage_reject_exactly">无法访问到您内存权限,无法保存图片!</string>
+    <string name="permission_storage_reject_tip">拒绝后app无法正常运行!</string>
+
+    <string name="permission_contacts_reject">app希望读取联系人!</string>
+    <string name="permission_contacts_reject_exactly">无法访问到您的联系人,无法执行接下来的操作!</string>
+
+</resources>
